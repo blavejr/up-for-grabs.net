@@ -1,0 +1,9 @@
+name: OrganiseDesktop
+desc: Organise your desktop with one click.
+site: https://github.com/blavejr/OrganiseDesktop
+tags:
+# Note: these are tags categorizing the project, not issue labels.
+- python
+upforgrabs:
+  name: help needed
+  link: https://github.com/blavejr/OrganiseDesktop/labels/help%20needed
